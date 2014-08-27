@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hampe.it</title>
+    <description>My name is Lars Hampe and I&#39;m studying Applied Computer Science at the Georg-August-University Göttingen.
+</description>
+    <link>http://hampe.it/</link>
+    <atom:link href="http://hampe.it/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 27 Aug 2014 02:40:48 +0200</pubDate>
+    <lastBuildDate>Wed, 27 Aug 2014 02:40:48 +0200</lastBuildDate>
+    <generator>Jekyll v2.3.0</generator>
+    
+      <item>
+        <title>hampe.it @ GitHub Pages</title>
+        <description>&lt;p&gt;My Blog is now on GitHub Pages.&lt;/p&gt;
+
+&lt;p&gt;At this point, hampe.it continues on english. Old articles still left in german.&lt;/p&gt;
+
+&lt;p&gt;Check out my &lt;a href=&quot;/nodejs-example&quot;&gt;NodeJS-Example&lt;/a&gt;!&lt;/p&gt;
+</description>
+        <pubDate>Wed, 27 Aug 2014 04:01:09 +0200</pubDate>
+        <link>http://hampe.it/blog/2014/08/27/hampe.it-@-GitHub-Pages.html</link>
+        <guid isPermaLink="true">http://hampe.it/blog/2014/08/27/hampe.it-@-GitHub-Pages.html</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Facebook - Crap and Waste</title>
+        <description>&lt;p&gt;Was ist mit Facebook los? Ich wusste ja schon immer das Facebook ein Zeitfressendes Monster ist was einem nichts bringt ausser ein paar oberflächliche Freundschaften die nur dort bestehen.&lt;/p&gt;
+
+&lt;p&gt;Genutzt habe ich Facebook um ein wenig über diese Leute in Erfahrung zu bringen und Ihnen mal zum Geburtstag zu gratulieren. Doch in den letzten Wochen und Monaten meide ich Facebook mehr und mehr.&lt;/p&gt;
+
+&lt;p&gt;Die Feeds die ich früher von meinen Freunden erhalten habe nehmen stetig ab und ich bekommen vermehrt Werbung angezeigt. Leider kann sich Facebook nicht anders Finanzieren und das ist auch völlig okay. Leider nimmt diese Werbung so langsam überhand.&lt;/p&gt;
+
+&lt;p&gt;Also was soll ich anfangen mit einem Stream voller Werbung wo jeder Post meiner Freunde einfach untergeht oder erst garnicht angezeigt wird?&lt;/p&gt;
+
+&lt;p&gt;Hier kommt jetzt Google Plus für mich ins Spiel. Google verdient zwar sein Geld auf die gleiche weise wie Facebook, mit Werbung sein Geld aber das auf eine ganz andere weise. Dies passiert so geschickt und entspannt das es kaum auffällt. Bei Google Plus gibt es keine Werbung, zumindestens ist das der Anschein.&lt;/p&gt;
+
+&lt;p&gt;Also Facebook, verpackt eure Werbung besser oder lasst euch neue Ideen einfallen. Es nervt und Kunden werdet Ihr dadurch sicher nicht gewinnen, es wird eher das gegenteil eintreten.&lt;/p&gt;
+
+&lt;p&gt;Mal sehen wann ich Facebook endgültig den Rücken kehre.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 04 Apr 2014 23:43:00 +0200</pubDate>
+        <link>http://hampe.it/facebook/2014/04/04/Facebook-Crap-and-Waste.html</link>
+        <guid isPermaLink="true">http://hampe.it/facebook/2014/04/04/Facebook-Crap-and-Waste.html</guid>
+        
+        
+        <category>facebook</category>
+        
+      </item>
+    
+      <item>
+        <title>Password Management</title>
+        <description>&lt;h3 id=&quot;immer-dabei&quot;&gt;Immer dabei!&lt;/h3&gt;
+
+&lt;p&gt;Mit der hier vorgestellten Lösung habt Ihr immer alle Passwörter dabei und das Sicher und Aktuell! Es gibt eine große Anzahl an Software die uns dabei Helfen unsere Passwörter sicher zu verwalten. Doch warum der ganze Aufwand?&lt;/p&gt;
+
+&lt;p&gt;Immer wieder werden die Datenbanken von diversen Websites oder Online Diensten gehackt und entwenden so eine menge Daten. Viele von euch nutzen auf jeder Platform das gleiche Passwort und das ist ein großer Fehler. Hat man erstmal das Passwort geklaut und entschlüsselt, oder es liegt sogar in Klartext vor, kann man schnell all eure Dienste kom­pro­mit­tie­ren.&lt;/p&gt;
+
+&lt;p&gt;Aus diesem Grund sollte man &lt;strong&gt;wirklich für jeden Dienst&lt;/strong&gt; ein eigenes und gutes Passwort verwenden. Doch niemand kann sich alle merken. Abhilfe schafft eine gute Passwort Verwaltung. Populär ist unter OSX &lt;a href=&quot;https://agilebits.com/onepassword&quot;&gt;1Password&lt;/a&gt;, gibt es auch für Windows, Android und iOS. Das ist eine tolle Passwort Verwaltung und funktioniert gut, doch der Preis ist nicht ohne. Da kommen für den Mac plus iPhone mal locker 60€ zusammen.&lt;/p&gt;
+
+&lt;h3 id=&quot;opensource-schafft-alternative&quot;&gt;OpenSource schafft Alternative&lt;/h3&gt;
+
+&lt;p&gt;Auf dem OpenSource Markt der Passwort Verwaltungen ist mir KeePass sehr positiv aufgefallen. Den Client gibts es für jede Plattform wenn auch nicht vom selben Entwickler aber das ist das schöne an OpenSource. Doch was bietet uns der Vorteil OpenSource noch? Nicht nur Ich sondern alle IT-Security Experten raten Sicherheitsrelevante Software als OpenSource zu nutzen. Nur so können wir uns sicher sein, das im Quellcode keine Backdoors oder ähnliches versteckt sind. Denn was wäre eine Passwort Verwaltung mit einer Backdoor? Wir könnten dann auch unsere ganzen Passwörter auf ein Blatt Papier schreiben und aufhängen.&lt;/p&gt;
+
+&lt;h3 id=&quot;zentraldezentrale-verwaltung-der-passwrter&quot;&gt;Zentral/Dezentrale Verwaltung der Passwörter&lt;/h3&gt;
+
+&lt;p&gt;KeePass Verwaltet unsere Passwörter in einer eigenen Datenbank. Diese können wir ablegen wo immer wir es für richtig halten. Aus diesem Grund können wir diese Zentral oder auch Dezentral lagern. Für eine Dezentrale Lagerung müssen wir uns allerdings eine synchronisations Möglichkeit überlegen. In diesem Beispiel bleiben wir bei der Zentralen Verwaltung.&lt;/p&gt;
+
+&lt;p&gt;Da die Datenbank mit unseren Passwörtern Verschlüsselt ist brauchen wir uns keine Gedanken darüber zu machen ob Google &amp;amp; Co. diese lesen kann. Aus diesem Grund habe ich meine Datenbank auf meinem Google Drive liegen. Somit kann ich auf diese von jedem PC und Smartphone aus zugreifen.&lt;/p&gt;
+
+&lt;h3 id=&quot;neue-passwrter-&quot;&gt;Neue Passwörter …&lt;/h3&gt;
+
+&lt;p&gt;Fangen wir nun damit an unseren Online Diensten neuen Passwörter zuzuordnen. Wir können in KeePass Kategorien anlegen unter diesen wir dann unsere Einträge speichern.&lt;/p&gt;
+
+&lt;p&gt;Nun könnt Ihr Stück für Stück eure Passwörter in KeePass eintragen bzw. diese von KeePass sogar erstellen lassen. Dafür gibt es genug Optionen die eure Passwörter mehr als sicher machen. Bisher hatte ich auch noch auf keiner Plattform ein Problem mit diesen zufallsgenerierten Passwörter.&lt;/p&gt;
+
+&lt;p&gt;__ ACHTUNG! __ &lt;em&gt;Wenn Ihr euer Passwort von eurer KeePass Datenbank verliert habt Ihr kein Zugriff mehr auf eure Passwörter!&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;multi-user-support&quot;&gt;Multi User Support&lt;/h3&gt;
+
+&lt;p&gt;In meinem Job gibt es eine Menge an Passwörtern. Diese werden in der gleichen Abteilung meist von mehreren Usern gleichzeitig genutzt. KeePass gibt uns die Möglichkeit das viele User die gleiche Datenbank nutzen können.&lt;/p&gt;
+
+&lt;p&gt;Die KeePass 1.x Version unterstüzt nur Read-Only oder Normal Modus. Im Normal Modus bekommt dann der User die Rechte über die Datei.&lt;/p&gt;
+
+&lt;p&gt;Die KeePass 2.x Version besitzt schon ein paar mehr Funktionen. Hier gibt es die Synchronisations Methode. Damit können alle User die gleiche Datenbank nutzen und diese auch verändern. Alle Benutzer bekommen dann automatisch ohne neuladen der Datenbank die aktualisierten Daten.&lt;/p&gt;
+
+&lt;p&gt;Möchte man bestimmten Usern nur das Lesen ermöglichen muss das über das jeweilige Dateisystem geschehen da KeePass keine Benutzerverwaltung besitzt.&lt;/p&gt;
+
+&lt;h3 id=&quot;url-feld&quot;&gt;URL Feld&lt;/h3&gt;
+
+&lt;p&gt;Das URL Feld ist mehr als es den anschein macht. Es unterstüzt nicht nur http:// sondern viele Formate wie ftp:// mailto:// ssh:// cmd:// usw. Das ermöglicht uns mit Platzhaltern zu arbeiten und mit einem Klick eine SSH Verbindung per Putty aufzubauen oder eine neue RDP Session zu starten. KeePass verknüpft die Pfade mit dem Standardprogramm was dafür konfiguriert ist.&lt;/p&gt;
+
+&lt;p&gt;Möchten wir uns z.B. per API bei einem Dienst Anmelden könnte das wie folgt aussehen:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;http://example.com/login/{USERNAME}/{PASSWORD}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Es gibt eine Reihe von Platzhaltern die wie Verwenden können. Zu finden sind diese hier:
+&lt;a href=&quot;http://keepass.info/help/base/placeholders.html&quot;&gt;KeePass Placeholder&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;tan-support&quot;&gt;TAN Support&lt;/h3&gt;
+
+&lt;p&gt;Eine sehr tolle Möglichkeit bietet uns der TAN Support. Für alle die noch keine SMS-TAN für Ihre Bank nutzen, sondern eine TAN Liste besitzen, ist das toll. Ihr könnt hier alle TAN Nummern eintragen und habt Sie so immer verschlüsselt bei euch. Benutzt Ihr eine TAN wird diese automatisch als benutzt markiert. Aber nicht nur für die Bank ist das interessant. Ich nutze das für meine Uni da wir dort für Prüfungsanmeldung usw. auch ein TAN System benutzen.&lt;/p&gt;
+
+&lt;h3 id=&quot;datenbank-reparieren&quot;&gt;Datenbank reparieren&lt;/h3&gt;
+
+&lt;p&gt;Wir wollen zwar nicht hoffen das dieser Fall mal eintreten sollte das unsere Datenbank defekt ist aber KeePass stellt uns eine Reparatur Hilfe zu Verfügung. Diese findet Ihr bei KeePass 1.x unter: Tools -&amp;gt; Repair KeePass Database File … und unter KeePass 2.x: Erstellt Ihr eine neue Datenbank und Importert die alte Datenbank im KeePass 2.x Repair Mode.&lt;/p&gt;
+
+&lt;p&gt;Eine defekte Datenbank kann dann auftreten wenn etwas beim Speichern oder Übertragen falsch gelaufen ist oder die Festplatte defekt ist. KeePass Überprüft aber alle Summen direkt nach bzw. bei dem Speichervorgang. Aus diesem Grund ist KeePass ziemlich sicher.&lt;/p&gt;
+
+&lt;h3 id=&quot;clients&quot;&gt;Clients&lt;/h3&gt;
+
+&lt;p&gt;KeePass ist OpenSource und aus diesem Grund gibt es eine große Anzahl an Clients für fast jede Plattform. Unter anderem für:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;iOS&lt;/li&gt;
+  &lt;li&gt;Android&lt;/li&gt;
+  &lt;li&gt;OSX&lt;/li&gt;
+  &lt;li&gt;Windows&lt;/li&gt;
+  &lt;li&gt;Linux&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;links&quot;&gt;Links&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://keepass.info&quot;&gt;KeePass&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://keepass.info/help/base/security.html&quot;&gt;KeePass Encryption&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 31 Mar 2014 02:39:00 +0200</pubDate>
+        <link>http://hampe.it/password/2014/03/31/Password-Management.html</link>
+        <guid isPermaLink="true">http://hampe.it/password/2014/03/31/Password-Management.html</guid>
+        
+        
+        <category>password</category>
+        
+      </item>
+    
+      <item>
+        <title>Samba unter Debian Wheezy 7.3</title>
+        <description>&lt;h4 id=&quot;wozu-brauchen-wir-samba&quot;&gt;Wozu brauchen wir Samba?&lt;/h4&gt;
+
+&lt;p&gt;Samba liefert uns ein schnelles und umfangreiches Dateisystem was wir ohne Probleme in OSX, Linux und Windows einbinden können. Geeignet ist dies für ein Homeserver oder Unternehmen mit bis zu 10 Personen die &lt;em&gt;nicht&lt;/em&gt; gleichzeitig an den gleichen Dateien arbeiten müssen. Lesen können Sie natürlich alle gleichzeitig.&lt;/p&gt;
+
+&lt;h4 id=&quot;warum-samba-und-nicht-afs-nfs-oder-dfs&quot;&gt;Warum Samba und nicht AFS, NFS oder DFS?&lt;/h4&gt;
+
+&lt;p&gt;Diese Frage lässt sich nicht so einfach beantworten. Wenn wir von dem Fall von oben ausgehen dann schon. AFS, NFS und DFS sind tolle Systeme im speziellen AFS und DFS. Diese beiden sind aber für unseren Ansatz viel zu mächtig. NFS würde auch in Frage kommen, leider kann man nativ NFS nur mit Windows 7 Ultimate einhängen. Daher nutzen wir Samba, dies funktioniert mit Windows Clients eh mit am besten neben DFS.&lt;/p&gt;
+
+&lt;h4 id=&quot;installation&quot;&gt;Installation&lt;/h4&gt;
+
+&lt;p&gt;&lt;em&gt;Diese Schritte zeigen nur die einfachste Installation mit einem Public Share. Samba mit Benutzer-Authentifizierung erkläre ich in einem weiteren Blogeintrag.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Mit einem:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;apt-get install samba
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;installieren wir unseren Samba Server mit den kompletten Anhängigkeiten.
+Die Installation bringt uns eine sehr gut Kommentierte Konfigurationsdatei mit. Damit wir sie später uns ansehen können erstellen wir zunächst ein Backup bzw. nennen die original Datei einfach um mit:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;mv /etc/samba/smb.conf /etc/samba/smb.conf.old
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Im nächstem Schritt erstellen wir eine neue Konfigurationsdatei:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;vim /etc/samba/smb.conf
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;em&gt;Ihr könnt natürlich auch einen anderen Editor verwenden!&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;In die Datei schreiben wir jetzt folgendes:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;[global]
+workgroup = smb
+security = share
+share modes = yes
+
+[public]
+path = /share/public/
+public = yes
+writable = yes
+comment = Public SMB Share
+printable = no
+guest ok = yes
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+        <pubDate>Fri, 17 Jan 2014 22:04:00 +0100</pubDate>
+        <link>http://hampe.it/samba/2014/01/17/Samba-Debian-Wheezy.html</link>
+        <guid isPermaLink="true">http://hampe.it/samba/2014/01/17/Samba-Debian-Wheezy.html</guid>
+        
+        
+        <category>samba</category>
+        
+      </item>
+    
+      <item>
+        <title>Raspberry Pi SD-Karte flashen unter OSX</title>
+        <description>&lt;p&gt;Es war an der Zeit mein Raspberry Pi einmal neu aufzusetzen. Viele spielereien vermüllen dann doch mit der Zeit die SD-Karte und das System. Ich bin ein Freund von minimalen Installationen und aktuellster Software. Aus diesen Gründen fällt meine Entscheidung auf ArchLinuxARM.&lt;/p&gt;
+
+&lt;p&gt;Im Netz kursieren hunderte von Anleitungen wie man eine SD-Karte mit einer *.img flasht. Jetzt kommt noch eine hinzu.&lt;/p&gt;
+
+&lt;h3 id=&quot;schritte-bis-zum-archlinuxarm-system&quot;&gt;6 Schritte bis zum ArchLinuxARM System&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;1)&lt;/strong&gt; Herunterladen der *.img &lt;a href=&quot;http://archlinuxarm.org/platforms/armv6/raspberry-pi&quot;&gt;ArchLinuxARM&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2)&lt;/strong&gt; Einstecken der SD-Karte in den Mac.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3)&lt;/strong&gt; Die SD-Karte muss nicht formatiert werden. Durch den Befehl ‘dd’ wird der gesamte Inhalt überschrieben.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;4)&lt;/strong&gt; Öffnet ein Terminal und nutzt folgenden Command: &lt;strong&gt;&lt;em&gt;diskutil list&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;```
+/dev/disk0
+#:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:      GUID_partition_scheme                        *121.3 GB   disk0
+   1:                        EFI EFI                     209.7 MB   disk0s1
+   2:                  Apple_HFS Macintosh HD            120.5 GB   disk0s2
+   3:                 Apple_Boot Recovery HD             650.0 MB   disk0s3
+/dev/disk1
+#:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:     FDisk_partition_scheme                        *8.0 GB     disk1
+   1:                 DOS_FAT_32 LINUX                   8.0 GB     disk1s1&lt;/p&gt;
+
+&lt;p&gt;```
+&lt;strong&gt;5)&lt;/strong&gt; Wir sehen das unsere 8GB SD-Karte als /dev/disk1 angezeigt wird. Nun gehen wir in unseren Download Ordner und können dann folgenden Befehl ausführen:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;sudo dd bs=1m if=ArchLinuxARM-2014.01-rpi.img of=/dev/disk1s1
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Der Befehl ist leicht erklärt:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;dd&lt;/strong&gt; –&amp;gt; Convert and copy a file&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;bs=1m&lt;/strong&gt; –&amp;gt; Set both input and output block size to n bytes&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;if=ArchLinuxARM-2014.01-rpi.img&lt;/strong&gt; –&amp;gt; Read input from file instead of the standard input.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;of=/dev/disk1s1&lt;/strong&gt; –&amp;gt; Write output to file instead of the standard output.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;6)&lt;/strong&gt; Jetzt dauert es eine ganze Weile. Wenn der Vorgang abgeschlossen ist habt Ihr wieder euren Bash Prompt und so etwas wie:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;1870+0 records in
+1870+0 records out
+1960837120 bytes transferred in 984.195269 secs (1992325 bytes/sec)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Viel Spass mit eurem neuen ArchLinuxARM auf eurem Raspberry Pi.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 17 Jan 2014 00:29:00 +0100</pubDate>
+        <link>http://hampe.it/raspberrypi/2014/01/17/Raspberry-Pi-SD-Card-OSX.html</link>
+        <guid isPermaLink="true">http://hampe.it/raspberrypi/2014/01/17/Raspberry-Pi-SD-Card-OSX.html</guid>
+        
+        
+        <category>raspberrypi</category>
+        
+      </item>
+    
+      <item>
+        <title>OpenEmu - Alle unter einem Dach</title>
+        <description>&lt;p&gt;Wer kennt es nicht, die langen Nächte mit SuperMario und seinen Kollegen? In der heutigen Zeit gibt es kaum noch Spiele seiner Art und wenn sind sie in hochglanz Grafik. Will man dann mal wieder einen der Klassiker spielen benötigt man eine alte Konsole und die Spiele dafür. Viele von uns haben sie nur leider nicht mehr.&lt;/p&gt;
+
+&lt;p&gt;Abhilfe schafft das Internet. Dort gibt es unzählig viele ROM Emulatoren, der eine besser der andere schlechter. Jeder hat seine stärken. Der Nachteil aller Emulatoren ist die Bedienbarkeit und die Übersichtlichkeit. Abhilfe schafft da jetzt OpenEmu für OS X.&lt;/p&gt;
+
+&lt;p&gt;Das Programm liefert eine Menge an Emulatoren mit:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;GameBoy&lt;/li&gt;
+  &lt;li&gt;GameBoy Advance (Visual Boy Advance)&lt;/li&gt;
+  &lt;li&gt;GameGear (CrabEmu, TwoMbit)&lt;/li&gt;
+  &lt;li&gt;NeoGeo Pocket (NeoPop)&lt;/li&gt;
+  &lt;li&gt;Nintendo (FCEU, Nestopia)&lt;/li&gt;
+  &lt;li&gt;Nintendo DS (DeSmuME)&lt;/li&gt;
+  &lt;li&gt;Sega 32X (Picodrive)&lt;/li&gt;
+  &lt;li&gt;Sega Genesis/MegaDrive (Genesis Plus GX)&lt;/li&gt;
+  &lt;li&gt;Sega Master System (CrabEmu, TwoMbit)&lt;/li&gt;
+  &lt;li&gt;Super Nintendo (SNES9x, Higan)&lt;/li&gt;
+  &lt;li&gt;TurboGrafx-16 (Mednafen)&lt;/li&gt;
+  &lt;li&gt;Virtual Boy (Mednafen)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Hinter dem System in Klammer steht der verwendete Emulator. Wie oben schon beschrieben könnte man sich jeden dieser Emulatoren auch selbst herunterladen und diesen einzeln nutzen.&lt;/p&gt;
+
+&lt;p&gt;Doch was bietet uns OpenEmu noch alles ausser diese große Sammlung an Emulatoren? Die Antwort ist eine ganze Menge!&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Spiele verwaltung&lt;/li&gt;
+  &lt;li&gt;Einfache Konfiguration der Steuerung (externe Controller!)&lt;/li&gt;
+  &lt;li&gt;Schöne Darstellung der Spiele&lt;/li&gt;
+  &lt;li&gt;Automatisches Update der Emulatoren&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Ihr könnte jedes Spiel mit der Tastatur spielen oder natürlich auch mit externen Controllern. Folgende sind von OpenEmu unterstützt:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;PlayStation 3&lt;/li&gt;
+  &lt;li&gt;PlayStation 4&lt;/li&gt;
+  &lt;li&gt;Xbox 360 (Benötigt Treiber)&lt;/li&gt;
+  &lt;li&gt;Logitech series (Dual Action, Rumblepad 2, Gamepad F310/F510/F710)&lt;/li&gt;
+  &lt;li&gt;Gravis GamePad Pro&lt;/li&gt;
+  &lt;li&gt;RetroUSB SNES RetroPort and RetroPad&lt;/li&gt;
+  &lt;li&gt;Sega Saturn USB&lt;/li&gt;
+  &lt;li&gt;PS3 Neo Geo Pad USB&lt;/li&gt;
+  &lt;li&gt;Retrode (SNES)&lt;/li&gt;
+  &lt;li&gt;Retrolink SNES&lt;/li&gt;
+  &lt;li&gt;Retrolink N64&lt;/li&gt;
+  &lt;li&gt;N64 Adaptoid&lt;/li&gt;
+  &lt;li&gt;Nintendo Wiimote&lt;/li&gt;
+  &lt;li&gt;Nintendo Wii U Pro&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;woher-bekomme-ich-das-ganze&quot;&gt;Woher bekomme ich das ganze?&lt;/h3&gt;
+
+&lt;p&gt;Alle Informationen und das Programm findet Ihr unter: &lt;a href=&quot;http://openemu.org&quot;&gt;OpenEmu.org&lt;/a&gt; Dort könnt Ihr auch eine kleine Basis Sammlung von Spielen bekommen. Ich persönlich freue mich auch solche Klassiker wie Zelda oder Pokemon auf dem GameBoy. Ein schöner Zeitvertreib und ein schönes schwelgen in der Vergangenheit. :)&lt;/p&gt;
+</description>
+        <pubDate>Sun, 29 Dec 2013 22:42:00 +0100</pubDate>
+        <link>http://hampe.it/emulator/2013/12/29/OpenEmu.html</link>
+        <guid isPermaLink="true">http://hampe.it/emulator/2013/12/29/OpenEmu.html</guid>
+        
+        
+        <category>emulator</category>
+        
+      </item>
+    
+  </channel>
+</rss>
